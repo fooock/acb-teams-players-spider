@@ -17,17 +17,17 @@ class TeamItem(scrapy.Item):
     played = scrapy.Field()
     win = scrapy.Field()
     lose = scrapy.Field()
-    points_f = scrapy.Field()
+    points_w = scrapy.Field()
     points_l = scrapy.Field()   
 
 
 class TeamItemLoader(ItemLoader):
     ''' Item loader for NoticiasAcbItem '''
     default_item_class = TeamItem
-    
+
     name_out = TakeFirst()
     played_out = TakeFirst()
     win_out = TakeFirst()
     lose_out = TakeFirst()
-    points_f_out = TakeFirst()
+    points_w_out = TakeFirst()
     points_l_out = TakeFirst()
