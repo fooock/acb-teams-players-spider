@@ -6,7 +6,7 @@ from teams_players.items import TeamItemLoader
 from teams_players.items import PlayerItemLoader
 
 
-class AcbSpider(scrapy.Spider):
+class PlayersSpider(scrapy.Spider):
     name = "players"
     start_urls = ["http://www.acb.com/resulcla.php"]
 
@@ -57,8 +57,6 @@ class AcbSpider(scrapy.Spider):
         
         url_parse = urlparse.urlparse(response.url) 
         cod_player = urlparse.parse_qs(url_parse.query)['id']
-
-        # player statistics
 
         item = PlayerItemLoader(response=response)
         item.add_value('player_name', player_name)

@@ -5,7 +5,7 @@ import urllib.parse as urlparse
 from teams_players.items import TeamItemLoader
 
 
-class AcbSpider(scrapy.Spider):
+class TeamsSpider(scrapy.Spider):
     name = "teams"
     start_urls = ["http://www.acb.com/resulcla.php"]
 
