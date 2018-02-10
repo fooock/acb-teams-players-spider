@@ -32,3 +32,16 @@ class TeamItemLoader(ItemLoader):
     lose_out = TakeFirst()
     points_w_out = TakeFirst()
     points_l_out = TakeFirst()
+
+class PlayerItem(scrapy.Item):
+    player_name = scrapy.Field()
+    twitter = scrapy.Field()
+    team = scrapy.Field()
+
+class PlayerItemLoader(ItemLoader):
+    ''' Item loader for NoticiasAcbItem '''
+    default_item_class = PlayerItem
+
+    player_name_out = TakeFirst()
+    twitter_out = TakeFirst()
+    team_out = TakeFirst()
