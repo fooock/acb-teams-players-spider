@@ -41,6 +41,8 @@ class AcbSpider(scrapy.Spider):
         team = response.meta['name']
         photo = response.css('div#portadaizq img::attr(src)').extract_first()
 
+        # player statistics
+        
         item = PlayerItemLoader(response=response)
         item.add_value('player_name', player_name)
         item.add_value('twitter', twitter)
