@@ -1,4 +1,6 @@
 import scrapy
+import urllib.parse as urlparse
+
 
 class PlayerStatsSpider(scrapy.Spider):
     name = "stats"
@@ -12,6 +14,9 @@ class PlayerStatsSpider(scrapy.Spider):
         ids.close()
 
     def parse_player_stats(self, response):
+        url_parse = urlparse.urlparse(response.url) 
+        cod_player = urlparse.parse_qs(url_parse.query)['cod_jugador'][0]
+
         tr = response.css('table.estadisticas2')
 
         # stats start at row 2
@@ -40,4 +45,4 @@ class PlayerStatsSpider(scrapy.Spider):
             pm = num_stats[14]
             v = num_stats[15]
 
-            yield {'game' : game, 'min': min_t, 'pt': pt, 't2': t2, 't3': t3, 't1': t1, 'tdo': tdo, 'a': a, 'br':br, 'c': c, 'fc': fc, 'm': m, 'f': f, 'fpc': fpc, 'pm': pm, 'v': v}
+            yield {'cod_player': cod_player, 'game' : game, 'min': min_t, 'pt': pt, 't2': t2, 't3': t3, 't1': t1, 'tdo': tdo, 'a': a, 'br':br, 'c': c, 'fc': fc, 'm': m, 'f': f, 'fpc': fpc, 'pm': pm, 'v': v}
