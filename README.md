@@ -14,7 +14,7 @@ scrapy crawl players -o players.json -t json
 ```
 
 ## Stats
-Generate the player ids file using the script `extract_player_id.py`
+Generate the player ids file using the script `extract_player_id.py` before execute the crawler
 
 ```
 scrapy crawl stats -o stats.json -t json
