@@ -1,11 +1,11 @@
 
 import scrapy
 
-from noticias_acb.items import TeamItemLoader
+from teams_players.items import TeamItemLoader
 
 
 class AcbSpider(scrapy.Spider):
-    name = "acb"
+    name = "teams"
     start_urls = ["http://www.acb.com/resulcla.php"]
 
     def parse(self, response):

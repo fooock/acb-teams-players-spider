@@ -6,6 +6,6 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-class NoticiasAcbPipeline(object):
+class TeamsPlayersPipeline(object):
     def process_item(self, item, spider):
         return item

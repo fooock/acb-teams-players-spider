@@ -1,8 +1,8 @@
 
 import scrapy
 
-from noticias_acb.items import TeamItemLoader
-from noticias_acb.items import PlayerItemLoader
+from teams_players.items import TeamItemLoader
+from teams_players.items import PlayerItemLoader
 
 
 class AcbSpider(scrapy.Spider):
