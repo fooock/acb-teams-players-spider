@@ -14,6 +14,8 @@ BOT_NAME = 'noticias_acb'
 SPIDER_MODULES = ['noticias_acb.spiders']
 NEWSPIDER_MODULE = 'noticias_acb.spiders'
 
+# encoding
+FEED_EXPORT_ENCODING = 'utf-8'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'noticias_acb (+http://www.yourdomain.com)'
