@@ -1,20 +1,181 @@
-[
-{"win": "13", "players": ["Thomas, Will", "Abalde, Alberto", "Van Rossom, Sam", "Dubljevic, Bojan", "Vives, Guillem", "Martínez, Rafa", "San Emeterio, F.", "Pleiss, Tibor", "Sastre, Joan", "Green, Erick", "Doornekamp, Aaron", "Puerto, Josep", "Vera, Alejandro", "García, Sergi", "Ferrando, Luis", "Hlinason, Tryggvi", "Vidorreta, Txus", "Ponsarnau, Jaume", "Maroto, Juan", "Rudez, Damjan", "Llompart, Pedro"], "points_l": "1.458", "points_w": "1.606", "name": "Valencia Basket", "lose": "6", "played": "19"},
-{"win": "17", "players": ["Causeur, Fabien", "Randle, Chasson", "Randolph, Anthony", "Fernández, Rudy", "Doncic, Luka", "Maciulis, Jonas", "Reyes, Felipe", "Campazzo, Facundo", "Carroll, Jaycee", "Tavares, Walter S.", "Thompkins, Trey", "Taylor, Jeffery", "Radoncic, Dino", "Yusta, Santiago", "Laso, Pablo", "Mateo, Jesús", "Redondo, Paco", "Calin, Lolo", "Ayón, Gustavo", "Llull, Sergio", "Kuzmic, Ognjen"], "points_l": "1.500", "points_w": "1.747", "name": "Real Madrid", "lose": "2", "played": "19"},
-{"win": "11", "players": ["Oliver, Albert", "Eriksson, Marcus", "Mekel, Gal", "Brussino, Nicolás", "Seeley, DJ", "Balvin, Ondrej", "Báez, Eulis", "Pasecniks, Anzejs", "Rabaseda, Xavi", "Radicevic, Nikola", "Aguilar, Pablo", "Fischer, Luke", "López, Javi", "Balcerowski, Olek", "Kljajic, Jovan", "Casimiro, Luis", "García, Víctor", "Camps, Salva", "Paulí, Oriol", "McKissic, Shaquielle"], "points_l": "1.576", "points_w": "1.620", "name": "Herbalife Gran Canaria", "lose": "8", "played": "19"},
-{"win": "12", "players": ["Vildoza, Luca", "Timma, Janis", "Voigtmann, Johannes", "Huertas, Marcelinho", "Beaubois, Rodrigue", "Janning, Matt", "Diop, Ilimane ", "Granger, Jayson", "Poirier, Vincent", "Martínez, Iván", "Shengelia, Tornike", "Garino, Patricio", "González, Miguel", "Malmanis, Rinalds", "Martínez, Pedro", "Valdeolmillos, S.", "Gil, David", "Segura, Curro", "Jones, Kevin", "McRae, Jordan", "Delfino, Carlos", "Prigioni, Pablo", "Caminos, Iurgi"], "points_l": "1.523", "points_w": "1.597", "name": "Baskonia", "lose": "7", "played": "19"},
-{"win": "12", "players": ["Olaseni, Gabriel", "Popovic, Marko", "O'Leary, Ian", "Rupnik, Luka", "Llorca, Álex", "Sekulic, Blagota", "Cruz, Francisco", "Smits, Rolands", "González, José M.", "Vargas, Gregory", "Llorente, Sergio", "Eyenga, Christian", "García, Néstor", "Raventós, J. M.", "Jiménez, Sergio", "Seoane, Daniel"], "points_l": "1.520", "points_w": "1.471", "name": "Montakit Fuenlabrada", "lose": "7", "played": "19"},
-{"win": "12", "players": ["Ribas, Pau", "Pressey, Phil", "Hanga, Adam", "Navarro, Juan Carlos", "Heurtel, Thomas", "Vezenkov, Aleksandar", "Oriola, Pierre", "Sanders, Rakim", "Koponen, Petteri", "Claver, Víctor", "Tomic, Ante", "Moerman, Adrien", "Garcia, Marc", "Kurucs, Rodions", "Diagné, Atoumane", "Pesic, Svetislav", "Casas, Ricard", "García, David", "Orellana, Óscar", "Jackson, Edwin", "Seraphin, Kevin", "Alonso, Sito", "Lata, Oscar"], "points_l": "1.560", "points_w": "1.691", "name": "FC Barcelona Lassa", "lose": "7", "played": "19"},
-{"win": "12", "players": ["Okouo, Viny", "McCallum, Ray", "Díaz, Alberto", "Salin, Sasu", "Díez, Daniel", "Milosavljevic, D.", "Nedovic, Nemanja", "Shermadini, Giorgi", "Waczynski, Adam", "Brooks, Jeff", "Augustine, James", "Suárez, Carlos", "Rosa, Ignacio", "Plaza, Joan", "Sánchez-Cañete", "Herrera, Antonio", "Ndong, Boniface", "Soluade, Morayo"], "points_l": "1.413", "points_w": "1.539", "name": "Unicaja", "lose": "7", "played": "19"},
-{"win": "9", "players": ["Sàbat, Albert", "Simons, Benjamin", "Llovet, Nacho", "Radovic, Nemanja", "Pustovyi, Artem", "Spires, Nick", "Navarro, David", "Thomas, Matt", "Bendzius, Eimantas", "Corbacho, Alberto", "Pozas, Pepe", "Laksa, Martins", "Gómez, Rodrigo", "Fernández, Moncho", "Rodríguez, Gonzalo", "Pérez, Víctor", "Bachynski, Jordan", "Pechacek, Adam"], "points_l": "1.501", "points_w": "1.457", "name": "Monbus Obradoiro", "lose": "10", "played": "19"},
-{"win": "11", "players": ["San Miguel, Rodrigo", "Niang, Mamadou", "Bassas, Ferran", "Tobey, Mike", "Vázquez, Fran", "Borg, Tobias", "Ponitka, Mateusz", "Abromaitis, Tim", "Allen, Rosco", "Beirán, Javier", "White, Davin", "Vasileiadis, Kostas", "Bonde Sturup, Mads", "Katsikaris, Fotis", "Justo, Marco Antonio", "Yáñez, Nacho", "Richotti, Nicolás", "Llompart, Pedro", "Vrabac, Adin", "Akognon, Josh", "Markovic, Nenad"], "points_l": "1.421", "points_w": "1.464", "name": "Iberostar Tenerife", "lose": "8", "played": "19"},
-{"win": "10", "players": ["Fernández, Jaime", "Iverson, Colton", "Blazic, Jaka", "Jankovic, Vladimir", "Stevic, Oliver", "Albicy, Andrew", "Diagne, Moussa", "Shurna, John", "Walker, David", "Colom, Guillem", "Jelínek, David", "Sanè, Landing", "Gacic, Sandro", "Tvalabeishvili, G.", "Maric, Nikola", "Peñarroya, Joan", "Eudal, David", "Váquez, Paco", "Burjanadze, Beqa", "Copeland, Chris", "Karnowski, Przemek"], "points_l": "1.558", "points_w": "1.596", "name": "MoraBanc Andorra", "lose": "9", "played": "19"},
-{"win": "10", "players": ["Soko, Ovie", "Urtasun, Alex", "Martín, Alberto", "Antelo, José Angel", "Benite, Vitor", "Kloof, Charlon", "Hannah, Clevin", "Oleson, Brad", "Delía, Marcos", "Tumba, Kevin", "Rojas, Sadiel", "Lukovic, Marko", "Martínez, Emilio", "Navarro, Ibon", "Rodríguez, Pepe", "Miranda, Alberto", "Faverani, Vitor", "Olaizola, Julen"], "points_l": "1.465", "points_w": "1.484", "name": "Universidad Católica de Murcia", "lose": "9", "played": "19"},
-{"win": "6", "players": ["Thomas, Devin", "Fischer, Ricardo", "Tabu, Jonathan", "Mendia, Borja", "Hammink, Shane", "Redivo, Lucio", "Salgado, Javier", "Mumbrú, Álex", "Hervelle, Axel", "Tomàs, Pere", "Todorovic, Dejan", "Gladness, Mickell", "Vucetic, Vasilije", "Mrsic, Veljko", "Ramírez, Jesús", "Lakovic, Jaka", "Kempton, Tim", "Duran, Carles"], "points_l": "1.605", "points_w": "1.491", "name": "RETAbet Bilbao Basket", "lose": "13", "played": "19"},
-{"win": "6", "players": ["Fisher, Corey", "Schreiner, Thomas", "Barrera, Alex", "Vega, Javier", "Saiz, Sebas", "Jenkins, John", "Gailius, Deividas", "Martínez, Edu", "Thompson, Deon", "Huskic, Goran", "López, Álex", "Epifanio, Diego", "Hernández, Fran", "Codeso, Alberto", "Dos Anjos, Felipe", "Sedekerskis, Tadas"], "points_l": "1.660", "points_w": "1.512", "name": "San Pablo Burgos", "lose": "13", "played": "19"},
-{"win": "4", "players": ["Dimitrijevic, Nenad", "López-Arostegui, X.", "Vidal, Sergi", "Laprovittola, Nico", "Kulvietis, Saulius", "Nogués, José Ignacio", "Ventura, Albert", "Wayns, Maalik", "Gielo, Tomasz", "Gudul, Omari", "Richard, Patrick", "Jordan, Jerome", "Birgander, Simon", "Busquets, Pep", "Parra, Joel", "Molins, Pol", "Duran, Carles", "Riera, Lluís", "del Tio, Pau", "Ruoff, Alex", "Mavra, Dominik", "Ocampo, Diego"], "points_l": "1.636", "points_w": "1.495", "name": "Divina Seguros Joventut", "lose": "15", "played": "19"},
-{"win": "4", "players": ["Anosike, Oderah", "Draper, Dontaye", "Sánchez, Alfonso", "Nelson, Luke", "McGrath, Donnie", "Cruz, Iván", "Uriz, Mikel", "Schilb, Blake", "Zagorac, Rade", "Franch, Josep", "Golubovic, Vladimir", "Kelly, Ryan", "Pluta, Andrzej", "Quintana, Óscar", "Carrasco, Javier", "Jarana, Antonio", "Blanco, Saúl", "Boungou-Colo, Nobel", "Martínez, Alejandro"], "points_l": "1.664", "points_w": "1.433", "name": "Real Betis Energía Plus", "lose": "15", "played": "19"},
-{"win": "8", "players": ["Agbelese, Danny", "Chery, Kenny", "Van Lacke, Fede", "Pérez, Daniel", "Oroz, Xabi", "Salvó, Miquel", "Pardina, Joan", "Fakuade, Michael", "Swing, Jordan", "Norel, Henk", "Clark, Daniel", "Sanz, Mikel", "Beraza, Xabier", "Azpeitia, Asier", "Fisac, Porfi", "García, Sergio", "Oyón, Bully"], "points_l": "1.518", "points_w": "1.513", "name": "Delteco GBC", "lose": "11", "played": "19"},
-{"win": "8", "players": ["Cvetkovic, A.", "Hakanson, Ludde", "Brizuela, Darío", "Vicedo, Edgar", "Cook, Omar", "Peña, Dagoberto", "Suton, Goran", "Landesberg, Sylven", "Savané, Sitapha", "Brown, Alec", "Caner-Medley, Nik", "Arteaga, Víctor", "Sola, Adams", "Maldonado, Salva", "Samaniego, José A.", "De la Villa, Íñigo"], "points_l": "1.607", "points_w": "1.576", "name": "Movistar Estudiantes", "lose": "11", "played": "19"},
-{"win": "6", "players": ["McCalebb, Bo", "Triguero, Juan José", "Barreiro, Jonathan", "Dragovic, Nikola", "Bellas, Tomás", "Neal, Gary", "Mazalin, Lovro", "Michalak, Michal", "De Jong, Nicolas", "Varnado, Jarvis", "Suárez, Álex", "Blums, Janis", "Alocén, Carlos", "Cargol, Pep", "Lamúa, Sergio", "Urtasun, Txemi", "García, Sergi", "Cuspinera, Jota"], "points_l": "1.636", "points_w": "1.529", "name": "Tecnyconta Zaragoza", "lose": "13", "played": "19"}
+[{
+    "win": "13",
+    "players": ["Thomas, Will", "Abalde, Alberto", "Van Rossom, Sam", "Dubljevic, Bojan", "Vives, Guillem", "Martínez, Rafa", "San Emeterio, F.", "Pleiss, Tibor", "Sastre, Joan", "Green, Erick", "Doornekamp, Aaron", "Puerto, Josep", "Vera, Alejandro", "García, Sergi", "Ferrando, Luis", "Hlinason, Tryggvi", "Vidorreta, Txus", "Ponsarnau, Jaume", "Maroto, Juan", "Rudez, Damjan", "Llompart, Pedro"],
+    "points_l": "1.458",
+    "points_w": "1.606",
+    "name": "Valencia Basket",
+    "lose": "6",
+    "played": "19",
+    "twitter": "@valenciabasket"
+  },
+  {
+    "win": "17",
+    "players": ["Causeur, Fabien", "Randle, Chasson", "Randolph, Anthony", "Fernández, Rudy", "Doncic, Luka", "Maciulis, Jonas", "Reyes, Felipe", "Campazzo, Facundo", "Carroll, Jaycee", "Tavares, Walter S.", "Thompkins, Trey", "Taylor, Jeffery", "Radoncic, Dino", "Yusta, Santiago", "Laso, Pablo", "Mateo, Jesús", "Redondo, Paco", "Calin, Lolo", "Ayón, Gustavo", "Llull, Sergio", "Kuzmic, Ognjen"],
+    "points_l": "1.500",
+    "points_w": "1.747",
+    "name": "Real Madrid",
+    "lose": "2",
+    "played": "19",
+    "twitter": "@RMBaloncesto"
+  },
+  {
+    "win": "11",
+    "players": ["Oliver, Albert", "Eriksson, Marcus", "Mekel, Gal", "Brussino, Nicolás", "Seeley, DJ", "Balvin, Ondrej", "Báez, Eulis", "Pasecniks, Anzejs", "Rabaseda, Xavi", "Radicevic, Nikola", "Aguilar, Pablo", "Fischer, Luke", "López, Javi", "Balcerowski, Olek", "Kljajic, Jovan", "Casimiro, Luis", "García, Víctor", "Camps, Salva", "Paulí, Oriol", "McKissic, Shaquielle"],
+    "points_l": "1.576",
+    "points_w": "1.620",
+    "name": "Herbalife Gran Canaria",
+    "lose": "8",
+    "played": "19",
+    "twitter": "@GranCanariaCB"
+  },
+  {
+    "win": "12",
+    "players": ["Vildoza, Luca", "Timma, Janis", "Voigtmann, Johannes", "Huertas, Marcelinho", "Beaubois, Rodrigue", "Janning, Matt", "Diop, Ilimane ", "Granger, Jayson", "Poirier, Vincent", "Martínez, Iván", "Shengelia, Tornike", "Garino, Patricio", "González, Miguel", "Malmanis, Rinalds", "Martínez, Pedro", "Valdeolmillos, S.", "Gil, David", "Segura, Curro", "Jones, Kevin", "McRae, Jordan", "Delfino, Carlos", "Prigioni, Pablo", "Caminos, Iurgi"],
+    "points_l": "1.523",
+    "points_w": "1.597",
+    "name": "Baskonia",
+    "lose": "7",
+    "played": "19",
+    "twitter": "@Baskonia"
+  },
+  {
+    "win": "12",
+    "players": ["Olaseni, Gabriel", "Popovic, Marko", "O'Leary, Ian", "Rupnik, Luka", "Llorca, Álex", "Sekulic, Blagota", "Cruz, Francisco", "Smits, Rolands", "González, José M.", "Vargas, Gregory", "Llorente, Sergio", "Eyenga, Christian", "García, Néstor", "Raventós, J. M.", "Jiménez, Sergio", "Seoane, Daniel"],
+    "points_l": "1.520",
+    "points_w": "1.471",
+    "name": "Montakit Fuenlabrada",
+    "lose": "7",
+    "played": "19",
+    "twitter": "@BFuenlabrada"
+  },
+  {
+    "win": "12",
+    "players": ["Ribas, Pau", "Pressey, Phil", "Hanga, Adam", "Navarro, Juan Carlos", "Heurtel, Thomas", "Vezenkov, Aleksandar", "Oriola, Pierre", "Sanders, Rakim", "Koponen, Petteri", "Claver, Víctor", "Tomic, Ante", "Moerman, Adrien", "Garcia, Marc", "Kurucs, Rodions", "Diagné, Atoumane", "Pesic, Svetislav", "Casas, Ricard", "García, David", "Orellana, Óscar", "Jackson, Edwin", "Seraphin, Kevin", "Alonso, Sito", "Lata, Oscar"],
+    "points_l": "1.560",
+    "points_w": "1.691",
+    "name": "FC Barcelona Lassa",
+    "lose": "7",
+    "played": "19",
+    "twitter": "@FCBbasket"
+  },
+  {
+    "win": "12",
+    "players": ["Okouo, Viny", "McCallum, Ray", "Díaz, Alberto", "Salin, Sasu", "Díez, Daniel", "Milosavljevic, D.", "Nedovic, Nemanja", "Shermadini, Giorgi", "Waczynski, Adam", "Brooks, Jeff", "Augustine, James", "Suárez, Carlos", "Rosa, Ignacio", "Plaza, Joan", "Sánchez-Cañete", "Herrera, Antonio", "Ndong, Boniface", "Soluade, Morayo"],
+    "points_l": "1.413",
+    "points_w": "1.539",
+    "name": "Unicaja",
+    "lose": "7",
+    "played": "19",
+    "twitter": "@unicajaCB"
+  },
+  {
+    "win": "9",
+    "players": ["Sàbat, Albert", "Simons, Benjamin", "Llovet, Nacho", "Radovic, Nemanja", "Pustovyi, Artem", "Spires, Nick", "Navarro, David", "Thomas, Matt", "Bendzius, Eimantas", "Corbacho, Alberto", "Pozas, Pepe", "Laksa, Martins", "Gómez, Rodrigo", "Fernández, Moncho", "Rodríguez, Gonzalo", "Pérez, Víctor", "Bachynski, Jordan", "Pechacek, Adam"],
+    "points_l": "1.501",
+    "points_w": "1.457",
+    "name": "Monbus Obradoiro",
+    "lose": "10",
+    "played": "19",
+    "twitter": "@OBRADOIROCAB"
+  },
+  {
+    "win": "11",
+    "players": ["San Miguel, Rodrigo", "Niang, Mamadou", "Bassas, Ferran", "Tobey, Mike", "Vázquez, Fran", "Borg, Tobias", "Ponitka, Mateusz", "Abromaitis, Tim", "Allen, Rosco", "Beirán, Javier", "White, Davin", "Vasileiadis, Kostas", "Bonde Sturup, Mads", "Katsikaris, Fotis", "Justo, Marco Antonio", "Yáñez, Nacho", "Richotti, Nicolás", "Llompart, Pedro", "Vrabac, Adin", "Akognon, Josh", "Markovic, Nenad"],
+    "points_l": "1.421",
+    "points_w": "1.464",
+    "name": "Iberostar Tenerife",
+    "lose": "8",
+    "played": "19",
+    "twitter": "@CB1939Canarias"
+  },
+  {
+    "win": "10",
+    "players": ["Fernández, Jaime", "Iverson, Colton", "Blazic, Jaka", "Jankovic, Vladimir", "Stevic, Oliver", "Albicy, Andrew", "Diagne, Moussa", "Shurna, John", "Walker, David", "Colom, Guillem", "Jelínek, David", "Sanè, Landing", "Gacic, Sandro", "Tvalabeishvili, G.", "Maric, Nikola", "Peñarroya, Joan", "Eudal, David", "Váquez, Paco", "Burjanadze, Beqa", "Copeland, Chris", "Karnowski, Przemek"],
+    "points_l": "1.558",
+    "points_w": "1.596",
+    "name": "MoraBanc Andorra",
+    "lose": "9",
+    "played": "19",
+    "twitter": "@morabancandorra"
+  },
+  {
+    "win": "10",
+    "players": ["Soko, Ovie", "Urtasun, Alex", "Martín, Alberto", "Antelo, José Angel", "Benite, Vitor", "Kloof, Charlon", "Hannah, Clevin", "Oleson, Brad", "Delía, Marcos", "Tumba, Kevin", "Rojas, Sadiel", "Lukovic, Marko", "Martínez, Emilio", "Navarro, Ibon", "Rodríguez, Pepe", "Miranda, Alberto", "Faverani, Vitor", "Olaizola, Julen"],
+    "points_l": "1.465",
+    "points_w": "1.484",
+    "name": "Universidad Católica de Murcia",
+    "lose": "9",
+    "played": "19",
+    "twitter": "@UCAMMurcia"
+  },
+  {
+    "win": "6",
+    "players": ["Thomas, Devin", "Fischer, Ricardo", "Tabu, Jonathan", "Mendia, Borja", "Hammink, Shane", "Redivo, Lucio", "Salgado, Javier", "Mumbrú, Álex", "Hervelle, Axel", "Tomàs, Pere", "Todorovic, Dejan", "Gladness, Mickell", "Vucetic, Vasilije", "Mrsic, Veljko", "Ramírez, Jesús", "Lakovic, Jaka", "Kempton, Tim", "Duran, Carles"],
+    "points_l": "1.605",
+    "points_w": "1.491",
+    "name": "RETAbet Bilbao Basket",
+    "lose": "13",
+    "played": "19",
+    "twitter": "@CDBILBAOBASKET"
+  },
+  {
+    "win": "6",
+    "players": ["Fisher, Corey", "Schreiner, Thomas", "Barrera, Alex", "Vega, Javier", "Saiz, Sebas", "Jenkins, John", "Gailius, Deividas", "Martínez, Edu", "Thompson, Deon", "Huskic, Goran", "López, Álex", "Epifanio, Diego", "Hernández, Fran", "Codeso, Alberto", "Dos Anjos, Felipe", "Sedekerskis, Tadas"],
+    "points_l": "1.660",
+    "points_w": "1.512",
+    "name": "San Pablo Burgos",
+    "lose": "13",
+    "played": "19",
+    "twitter": "@SanPabloBurgos ‏"
+  },
+  {
+    "win": "4",
+    "players": ["Dimitrijevic, Nenad", "López-Arostegui, X.", "Vidal, Sergi", "Laprovittola, Nico", "Kulvietis, Saulius", "Nogués, José Ignacio", "Ventura, Albert", "Wayns, Maalik", "Gielo, Tomasz", "Gudul, Omari", "Richard, Patrick", "Jordan, Jerome", "Birgander, Simon", "Busquets, Pep", "Parra, Joel", "Molins, Pol", "Duran, Carles", "Riera, Lluís", "del Tio, Pau", "Ruoff, Alex", "Mavra, Dominik", "Ocampo, Diego"],
+    "points_l": "1.636",
+    "points_w": "1.495",
+    "name": "Divina Seguros Joventut",
+    "lose": "15",
+    "played": "19",
+    "twitter": "@Penya1930"
+  },
+  {
+    "win": "4",
+    "players": ["Anosike, Oderah", "Draper, Dontaye", "Sánchez, Alfonso", "Nelson, Luke", "McGrath, Donnie", "Cruz, Iván", "Uriz, Mikel", "Schilb, Blake", "Zagorac, Rade", "Franch, Josep", "Golubovic, Vladimir", "Kelly, Ryan", "Pluta, Andrzej", "Quintana, Óscar", "Carrasco, Javier", "Jarana, Antonio", "Blanco, Saúl", "Boungou-Colo, Nobel", "Martínez, Alejandro"],
+    "points_l": "1.664",
+    "points_w": "1.433",
+    "name": "Real Betis Energía Plus",
+    "lose": "15",
+    "played": "19",
+    "twitter": "@RealBetisEPlus"
+  },
+  {
+    "win": "8",
+    "players": ["Agbelese, Danny", "Chery, Kenny", "Van Lacke, Fede", "Pérez, Daniel", "Oroz, Xabi", "Salvó, Miquel", "Pardina, Joan", "Fakuade, Michael", "Swing, Jordan", "Norel, Henk", "Clark, Daniel", "Sanz, Mikel", "Beraza, Xabier", "Azpeitia, Asier", "Fisac, Porfi", "García, Sergio", "Oyón, Bully"],
+    "points_l": "1.518",
+    "points_w": "1.513",
+    "name": "Delteco GBC",
+    "lose": "11",
+    "played": "19",
+    "twitter": "@gipuzkoabasket"
+  },
+  {
+    "win": "8",
+    "players": ["Cvetkovic, A.", "Hakanson, Ludde", "Brizuela, Darío", "Vicedo, Edgar", "Cook, Omar", "Peña, Dagoberto", "Suton, Goran", "Landesberg, Sylven", "Savané, Sitapha", "Brown, Alec", "Caner-Medley, Nik", "Arteaga, Víctor", "Sola, Adams", "Maldonado, Salva", "Samaniego, José A.", "De la Villa, Íñigo"],
+    "points_l": "1.607",
+    "points_w": "1.576",
+    "name": "Movistar Estudiantes",
+    "lose": "11",
+    "played": "19",
+    "twitter": "@ClubEstudiantes"
+  },
+  {
+    "win": "6",
+    "players": ["McCalebb, Bo", "Triguero, Juan José", "Barreiro, Jonathan", "Dragovic, Nikola", "Bellas, Tomás", "Neal, Gary", "Mazalin, Lovro", "Michalak, Michal", "De Jong, Nicolas", "Varnado, Jarvis", "Suárez, Álex", "Blums, Janis", "Alocén, Carlos", "Cargol, Pep", "Lamúa, Sergio", "Urtasun, Txemi", "García, Sergi", "Cuspinera, Jota"],
+    "points_l": "1.636",
+    "points_w": "1.529",
+    "name": "Tecnyconta Zaragoza",
+    "lose": "13",
+    "played": "19",
+    "twitter": "@BasketZaragoza"
+  }
 ]
