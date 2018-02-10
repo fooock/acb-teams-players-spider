@@ -18,13 +18,20 @@ class PlayerStatsSpider(scrapy.Spider):
         cod_player = urlparse.parse_qs(url_parse.query)['cod_jugador'][0]
 
         tr = response.css('table.estadisticas2')
-
+    
         # stats start at row 2
         game = tr.css('tr')[2:]
         for td in game:
             if td is None:
                 continue
             game = td.css('td a::text').extract_first()
+            game_elem = td.css('td a::attr(href)').extract_first()
+            if game_elem is None:
+                continue
+            
+            url_parse = urlparse.urlparse(self.start_urls[0] + game_elem) 
+            cod_game = urlparse.parse_qs(url_parse.query)['partido'][0]
+
             if game is None:
                 continue
             num_stats = td.css('td::text').extract()
@@ -45,4 +52,4 @@ class PlayerStatsSpider(scrapy.Spider):
             pm = num_stats[14]
             v = num_stats[15]
 
-            yield {'cod_player': cod_player, 'game' : game, 'min': min_t, 'pt': pt, 't2': t2, 't3': t3, 't1': t1, 'tdo': tdo, 'a': a, 'br':br, 'c': c, 'fc': fc, 'm': m, 'f': f, 'fpc': fpc, 'pm': pm, 'v': v}
+            yield {'cod_game': cod_game, 'cod_player': cod_player, 'game' : game, 'min': min_t, 'pt': pt, 't2': t2, 't3': t3, 't1': t1, 'tdo': tdo, 'a': a, 'br':br, 'c': c, 'fc': fc, 'm': m, 'f': f, 'fpc': fpc, 'pm': pm, 'v': v}
