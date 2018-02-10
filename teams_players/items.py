@@ -44,6 +44,9 @@ class PlayerItem(scrapy.Item):
     birth_date = scrapy.Field()
     position = scrapy.Field()
     height = scrapy.Field()
+    cod_team = scrapy.Field()
+    cod_player = scrapy.Field()
+
 
 class PlayerItemLoader(ItemLoader):
     ''' Item loader for NoticiasAcbItem '''
@@ -57,3 +60,5 @@ class PlayerItemLoader(ItemLoader):
     birth_date_out = TakeFirst()
     position_out = TakeFirst()
     height_out = TakeFirst()
+    cod_team_out = TakeFirst()
+    cod_player_out = TakeFirst()
