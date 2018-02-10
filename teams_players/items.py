@@ -37,6 +37,7 @@ class PlayerItem(scrapy.Item):
     player_name = scrapy.Field()
     twitter = scrapy.Field()
     team = scrapy.Field()
+    photo = scrapy.Field()
 
 class PlayerItemLoader(ItemLoader):
     ''' Item loader for NoticiasAcbItem '''
@@ -45,3 +46,4 @@ class PlayerItemLoader(ItemLoader):
     player_name_out = TakeFirst()
     twitter_out = TakeFirst()
     team_out = TakeFirst()
+    photo_out = TakeFirst()
