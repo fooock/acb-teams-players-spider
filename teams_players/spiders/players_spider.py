@@ -46,6 +46,9 @@ class AcbSpider(scrapy.Spider):
         country = data[0].strip()
         birth_date = data[len(data) - 1].strip()
 
+        position = response.css('div#portadadertop tr')[2].css('td.datojug::text').extract_first().split('|')[0].strip()
+        height = response.css('div#portadadertop tr')[2].css('td.datojug::text').extract_first().split('|')[1].strip()
+        
         # player statistics
 
         item = PlayerItemLoader(response=response)
@@ -55,4 +58,6 @@ class AcbSpider(scrapy.Spider):
         item.add_value('photo', photo)
         item.add_value('country', country)
         item.add_value('birth_date', birth_date)
+        item.add_value('position', position)
+        item.add_value('height', height)
         yield item.load_item()

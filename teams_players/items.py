@@ -40,6 +40,8 @@ class PlayerItem(scrapy.Item):
     photo = scrapy.Field()
     country = scrapy.Field()
     birth_date = scrapy.Field()
+    position = scrapy.Field()
+    height = scrapy.Field()
 
 class PlayerItemLoader(ItemLoader):
     ''' Item loader for NoticiasAcbItem '''
@@ -51,3 +53,5 @@ class PlayerItemLoader(ItemLoader):
     photo_out = TakeFirst()
     country_out = TakeFirst()
     birth_date_out = TakeFirst()
+    position_out = TakeFirst()
+    height_out = TakeFirst()
