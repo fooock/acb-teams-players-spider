@@ -38,6 +38,8 @@ class PlayerItem(scrapy.Item):
     twitter = scrapy.Field()
     team = scrapy.Field()
     photo = scrapy.Field()
+    country = scrapy.Field()
+    birth_date = scrapy.Field()
 
 class PlayerItemLoader(ItemLoader):
     ''' Item loader for NoticiasAcbItem '''
@@ -47,3 +49,5 @@ class PlayerItemLoader(ItemLoader):
     twitter_out = TakeFirst()
     team_out = TakeFirst()
     photo_out = TakeFirst()
+    country_out = TakeFirst()
+    birth_date_out = TakeFirst()

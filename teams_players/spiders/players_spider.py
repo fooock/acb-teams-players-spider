@@ -41,11 +41,18 @@ class AcbSpider(scrapy.Spider):
         team = response.meta['name']
         photo = response.css('div#portadaizq img::attr(src)').extract_first()
 
+        personal = response.css('div#portadadertop tr')[1].css('td.datojug::text').extract_first()
+        data = personal.split(',')
+        country = data[0].strip()
+        birth_date = data[len(data) - 1].strip()
+
         # player statistics
-        
+
         item = PlayerItemLoader(response=response)
         item.add_value('player_name', player_name)
         item.add_value('twitter', twitter)
         item.add_value('team', team)
         item.add_value('photo', photo)
+        item.add_value('country', country)
+        item.add_value('birth_date', birth_date)
         yield item.load_item()
