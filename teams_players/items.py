@@ -20,6 +20,7 @@ class TeamItem(scrapy.Item):
     points_w = scrapy.Field()
     points_l = scrapy.Field()  
     players = scrapy.Field() 
+    cod_team = scrapy.Field()
 
 
 class TeamItemLoader(ItemLoader):
@@ -32,6 +33,7 @@ class TeamItemLoader(ItemLoader):
     lose_out = TakeFirst()
     points_w_out = TakeFirst()
     points_l_out = TakeFirst()
+    cod_team_out = TakeFirst()
 
 class PlayerItem(scrapy.Item):
     player_name = scrapy.Field()

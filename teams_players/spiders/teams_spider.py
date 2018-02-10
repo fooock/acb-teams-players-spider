@@ -1,5 +1,6 @@
 
 import scrapy
+import urllib.parse as urlparse
 
 from teams_players.items import TeamItemLoader
 
@@ -29,6 +30,11 @@ class AcbSpider(scrapy.Spider):
     def parse_detail(self, response):
         meta = response.meta
         url = response.css('div#jugadorextrastop a::attr(href)').extract_first()
+
+        url_parse = urlparse.urlparse(response.url) 
+        cod_team = urlparse.parse_qs(url_parse.query)['id']
+        meta['cod_team'] = cod_team
+
         yield response.follow(url, callback=self.parse_players, meta=meta)
 
     def parse_players(self, response):
@@ -48,5 +54,6 @@ class AcbSpider(scrapy.Spider):
         item.add_value('lose', response.meta['loses'])
         item.add_value('points_w', response.meta['points_w'])
         item.add_value('points_l', response.meta['points_l'])
+        item.add_value('cod_team', response.meta['cod_team'])
         item.add_value('players', players)
         yield item.load_item()
