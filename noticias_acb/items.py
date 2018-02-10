@@ -18,7 +18,8 @@ class TeamItem(scrapy.Item):
     win = scrapy.Field()
     lose = scrapy.Field()
     points_w = scrapy.Field()
-    points_l = scrapy.Field()   
+    points_l = scrapy.Field()  
+    players = scrapy.Field() 
 
 
 class TeamItemLoader(ItemLoader):
